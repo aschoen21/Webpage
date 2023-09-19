@@ -1,4 +1,5 @@
 ---
+active: false
 banner:
   caption: ""
   image: ""

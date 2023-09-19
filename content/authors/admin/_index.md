@@ -1,56 +1,47 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+title: "Alayna Schoenberger"
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+  Degrees:
+  - course: MS in Statistics w/ Data Science concentration
+    institution: George Mason University
+    year: Expected 2023
+  - course: BS in Statistics w/ Mathematical Science Concentration
+    institution: George Mason University
+    year: 2023
+  - course: AS in General Studies
+    institution: Germanna Community College
+    year: 2020
+email: "aschoen@gmu.edu"
+first_name: Alayna
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Statistics
+- American Sign Language
+- Probability
+last_name: Schoenberger
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: George Mason University
+  url: https://www.gmu.edu/
+role: Graduate Teacher Assistant
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aschoen21
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+  link: https://www.linkedin.com/in/alayna-schoenberger-50ba16279
 status:
-  icon: ☕️
+  icon: :partying_face:
 superuser: true
-title: Alice Wu 吳恩達
+bio: My interests are in probability, forensic statistics, and the use of
+statistics in general.
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alayna is currently a Master's student at George Mason University studying Statistical Science with a concentration in Data Science. She is currently working towards understanding more of the computational side of Statistics. She is also currently researching to write a paper about the usefulness of FEVS scores for the government. In her free time she enjoys hanging out with her large family and playing the violin for her church.
 {style="text-align: justify;"}
+
