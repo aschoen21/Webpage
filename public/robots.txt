@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://alayna21.netlify.app/sitemap.xml
