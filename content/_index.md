@@ -9,18 +9,22 @@ sections:
 - block: features
   content:
     items:
-    - description: 90%
+    - description: Proficient
       icon: r-project
       icon_pack: fab
-      name: R
-    - description: 100%
-      icon: chart-line
+      name: R and R Studio
+    - description: Proficient
+      icon: diagram-project
       icon_pack: fas
       name: Statistics
-    - description: 10%
-      icon: camera-retro
+    - description: Experienced
+      icon: database
       icon_pack: fas
-      name: Photography
+      name: Data Cleaning
+    - description: Experienced
+      icon: chart-line
+      icon_pack: fas
+      name: Visualization
     title: Skills
 - block: experience
   content:

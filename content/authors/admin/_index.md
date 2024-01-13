@@ -20,20 +20,19 @@ education:
   courses:
   - course: MS in Statistics w/ Data Science concentration
     institution: George Mason University
-    year: Expected 2023
+    year: Fall 2023
   - course: BS in Statistics w/ Mathematical Science Concentration
     institution: George Mason University
-    year: 2023
+    year: Spring 2023
   - course: AS in General Studies
     institution: Germanna Community College
-    year: 2020
-role: Graduate Teaching Assistant
-bio: My interests are in probability, forensic statistics, and the use of statistics
-  in general.
+    year: Fall 2020
+# role: Graduate Teaching Assistant
+bio: 
 superuser: yes
 ---
 
-Alayna is currently a Master's student at George Mason University studying Statistical Science with a concentration in Data Science. She is currently working towards understanding more of the computational side of Statistics. She is also currently researching to write a paper about the usefulness of FEVS scores for the government. In her free time she enjoys hanging out with her large family and playing the violin for her church.
+Alayna is recent graduate from George Mason University studying Statistical Science. She has worked towards understanding more of the computational side of Statistics for the pasts 7 months. She also authored a thesis titled "Does Workplace Climate Predict Employee Retention? Insight from the Federal Employee Viewpoint Survey" about the usefulness of FEVS scores for the US government employee retention. This thesis is to be released by George Mason. In her free time she enjoys hanging out with her large family and playing the violin for her church. Her main interests are in data science, probability, statistics, and data visualization.
 {style="text-align: justify;"}
 
 
