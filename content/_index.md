@@ -12,7 +12,7 @@ sections:
     - description: Proficient
       icon: r-project
       icon_pack: fab
-      name: R and R Studio
+      name: R Studio
     - description: Proficient
       icon: diagram-project
       icon_pack: fas
@@ -24,27 +24,56 @@ sections:
     - description: Experienced
       icon: chart-line
       icon_pack: fas
-      name: Visualization
+      name: Data Visualization
     title: Skills
 - block: experience
   content:
     date_format: Jan 2006
     items:
-    - company: George Mason University
-      company_logo: org-gc
+    - company: Fairfax County Fire and Rescue Dept Data Analytics Division
+      company_logo: 
       company_url: ""
-      date_end: ""
-      date_start: "2023-08-16"
+      date_end: "2022-08-15"
+      date_start: "2022-03-16"
+      description: |2-
+          Responsibilities include:
+
+          * Validating datasets and taught co-workers R programming
+          * Learned programs such as  SQL, ArcGIS, and PowerBi, 
+          * Ran and explained regression, dug through data, and presented findings 
+          to the Data Analytics Department and Fire and Rescue Headquarters Senior Leadership. 
+      location: Fairfax, Virginia
+      title: Intern for Data Analytics and Statistics
+    - company: George Mason University
+      company_logo: 
+      company_url: ""
+      date_end: "2023-12-15"
+      date_start: "2023-01-16"
       description: |2-
           Responsibilities include:
 
           * Grading
           * Tutoring Students
           * In-class activities
+          * Courses include: Probability, Intro to Statistics, and Pre-Capstone Statistics 
       location: Fairfax, Virginia
-      title: GTA
+      title: Graduate Teaching Assistant (GTA)
+    - company: George Mason University
+      company_logo: 
+      company_url: ""
+      date_end: "2023-08-17"
+      date_start: "2023-05-01"
+      description: |2-
+          Responsibilities include:
+
+          * Research on Federal Employee Surveys
+          * Cleaning and working with Big Data
+          * Noting patterns and using statistical models to explain data
+          * Writing a thesis based on the research completed
+      location: Fairfax, Virginia
+      title: Graduate Research Assistant (GRA)
     - company: CVS
-      company_logo: org-x
+      company_logo:
       company_url: ""
       date_end: ""
       date_start: "2021-02-01"
