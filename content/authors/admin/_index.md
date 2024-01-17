@@ -18,7 +18,7 @@ social:
   link: "https://www.linkedin.com/in/alayna-schoenberger-50ba16279"
 education:
   courses:
-  - course: MS in Statistics w/ Data Science concentration
+  - course: MS in Statistics 
     institution: George Mason University
     year: Fall 2023
   - course: BS in Statistics w/ Mathematical Science Concentration
