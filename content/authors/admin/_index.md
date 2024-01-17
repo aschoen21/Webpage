@@ -32,7 +32,7 @@ bio:
 superuser: yes
 ---
 
-Alayna is recent graduate from George Mason University studying Statistical Science. She has worked towards understanding more of the computational side of Statistics for the pasts 7 months. She also authored a thesis titled "Does Workplace Climate Predict Employee Retention? Insight from the Federal Employee Viewpoint Survey" about the usefulness of FEVS scores for the US government employee retention. This thesis is to be released by George Mason. In her free time she enjoys hanging out with her large family and playing the violin for her church. Her main interests are in data science, probability, statistics, and data visualization.
+Alayna is a recent graduate from George Mason University studying Statistical Science. She has worked towards understanding more of the computational side of Statistics for the pasts 7 months. She also authored a thesis titled "Does Workplace Climate Predict Employee Retention? Insight from the Federal Employee Viewpoint Survey" about the usefulness of FEVS scores for the US government employee retention. This thesis is to be released by George Mason. In her free time she enjoys hanging out with her large family and playing the violin for her church. Her main interests are in data science, probability, statistics, and data visualization.
 {style="text-align: justify;"}
 
 
